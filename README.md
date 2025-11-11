@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Matt Terrence Rias</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
+
+
 # 💫 About Me:
 🎓 BS Computer Science Student at FEU Tech.<br><br>🔭 I’m currently working on Cafe Finder using the React framework<br><br>🤝 I’m looking for help with Improving my frontend development skills and integrating into production-ready apps.<br><br>🌱 I’m currently learning React, Next.js, and full-stack development concepts to enhance my web app projects.<br>
 
