@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🎓 BS Computer Science Student at FEU Tech.<br><br>🔭 I’m currently working on a logistic webapp<br><br>🤝 I’m looking for help with Improving my development skills and integrating into production-ready apps.<br><br>🌱 I’m currently learning React, Next.js, and full-stack development concepts to enhance my web app projects.<br>
+🎓 BS Computer Science Student at FEU Tech.<br>><br>🤝 I’m looking for help with Improving my development skills and integrating into production-ready apps.<br><br>🌱 I’m currently learning Laravel, React, Next.js, and full-stack development concepts to enhance my web app projects.<br>
 
 
 ## 🌐 Socials:
