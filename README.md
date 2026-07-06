@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mattrias&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=mattrias&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mattrias&layout=compact&hide_title=true&langs_count=4&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=mattrias&layout=compact&hide_title=true&langs_count=4&theme=codeSTACKr)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=mattrias&layout=compact&hide_title=true&langs_count=6&display_format=percent&theme=codeSTACKr)](https://wakatime.com/@alan)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=mattrias&layout=compact&hide_title=true&langs_count=6&display_format=percent&theme=codeSTACKr)](https://wakatime.com/@mattrias)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mattrias&theme=radical&no-frame=false&no-bg=false&margin-w=4)
